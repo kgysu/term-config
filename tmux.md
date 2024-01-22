@@ -16,7 +16,11 @@
 |   |   |
 | resize pane | `<leader>C-hjkl` |
 |   |   |
-
+| new window | `<leader>c` |
+| rename window | `<leader>,` |
+| close window | `<leader>&` |
+| next window | `<leader>n` |
+|   |   |
 
 
 
