@@ -10,7 +10,7 @@
 | Update Plugins | `C-s U` |
 |   |   |
 | Split horizontal | `<leader>"` |
-| Split vertival | `<leader>+` |
+| Split vertival | `<leader>%` |
 |   |   |
 | Move to another pane | `C-hjkl` |
 |   |   |
