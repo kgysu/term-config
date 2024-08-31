@@ -40,6 +40,14 @@ Install: [omz](https://github.com/ohmyzsh/ohmyzsh)
 
 Theme: [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
+NEW: [oh-my-posh](https://ohmyposh.dev/)
+
+Install Font: 
+```bash
+.local/bin/oh-my-posh font install meslo
+```
+
+
 Make sure the recommended Nerd-Font is installed.
 
 
