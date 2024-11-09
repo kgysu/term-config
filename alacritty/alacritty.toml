@@ -1,3 +1,4 @@
+[general]
 import = [
   "/home/user/.config/alacritty/catppuccin-mocha.toml"
 ]
@@ -23,4 +24,5 @@ style = "Italic"
 [font.normal]
 family = "MesloLGS Nerd Font Mono"
 style = "Regular"
+
 
